@@ -177,7 +177,7 @@ export default function Home() {
             </Heading>
 
             <Heading mt='10'>
-              The manager of the lettery is <span className={styles.blue}>{managerAddress}</span>
+              The manager of the lottery is <span className={styles.blue}>{managerAddress}</span>
             </Heading>
 
             <Heading mt='10' mb="10">
